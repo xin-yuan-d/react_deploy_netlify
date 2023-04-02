@@ -1,9 +1,9 @@
 # A grocery list web app
 
-**Description:**
+**Description:**\
 add items\
 search for item\
-check item\
+check item
 
 
 
