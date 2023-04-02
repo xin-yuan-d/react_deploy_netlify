@@ -5,6 +5,8 @@ add items\
 search for item\
 check item
 
+[try it here] (https://singular-yeot-266ad0.netlify.app)
+
 
 
 
